@@ -1,0 +1,19 @@
+{
+  "name": "gestepiinterfaces",
+  "version": "1.0.0",
+  "main": "dist/index.d.ts",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "Ahcene Zidahnal",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
